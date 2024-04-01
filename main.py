@@ -12,8 +12,8 @@ NEWS_API_KEY = "c341d4a76963473db2fb5d0b4bc9adf2"
 FROM_NUM = "+18333160612"
 TO_NUM = '+18777804236'
 
-ACCOUNT_SID = "AC494b7a1f43dc5ed615944d5286b51b2b"
-AUTH_TOKEN = "288427d69c71f89a4d03a0efef89998b"
+ACCOUNT_SID = #insert twilio SID here
+AUTH_TOKEN = #insert twilio auth token here
 
 today=dt.datetime.now()
 TODAY_DATE = f"{today.year}-{today.month}-{today.day}"
